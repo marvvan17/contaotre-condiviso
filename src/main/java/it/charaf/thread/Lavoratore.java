@@ -1,4 +1,4 @@
-package it.charaf;
+package it.charaf.thread;
 
 import java.util.concurrent.ThreadLocalRandom;
 

@@ -1,5 +1,6 @@
 package it.charaf.thread;
 
+
 public class Main {
     public static void main(String[] args) {
         Contatore contatore = new Contatore(10);
@@ -28,3 +29,4 @@ public class Main {
         );
     }
 }
+

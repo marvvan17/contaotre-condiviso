@@ -8,7 +8,7 @@ public class Contatore {
         this.valoreMassimo = valoreMassimo;
     }
 
-    public synchronized boolean incrementa(String nomeThread) {
+    public boolean incrementa(String nomeThread) {
         if (valore < valoreMassimo) {
             valore++;
 
